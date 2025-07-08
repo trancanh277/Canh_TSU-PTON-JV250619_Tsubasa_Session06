@@ -1,0 +1,50 @@
+.header{
+    background-color: grey;
+    color: white;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+    
+}
+.header nav a{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+}
+.intro{
+    background-color: rgb(241, 233, 233);
+    display:flex;
+    align-items:center;
+    padding: 30px 30px;
+    gap: 20px;
+}
+ .intro img{
+    width: 200px;
+    border-radius: 50%;
+}
+.project h3{
+    padding: 20px 40px;
+    margin-bottom: 10px;
+}
+.project-link{
+    display:flex;
+    justify-content:flex-start;
+    gap: 15px;
+
+}
+.project a{
+    width: 100%;
+    text-decoration: none;
+    text-align: center;
+    background-color: grey;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.footer{
+    background-color:rgb(241, 233, 233);
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+}
