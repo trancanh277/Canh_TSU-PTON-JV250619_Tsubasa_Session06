@@ -1,0 +1,24 @@
+.header{
+    background-color: rgb(72, 87, 224);
+    color:white;
+    text-align: center;
+}
+.header a{
+    text-decoration: none;
+    color:white;
+    margin-right:10px;
+}
+
+.box img{
+    width:200px;
+}
+.box{
+    display:flex;
+    align-items: center;
+    margin-left: 30%;
+}
+.footer{
+    background-color: rgb(199, 195, 195);
+    text-align: center;
+    padding: 5px;
+}
