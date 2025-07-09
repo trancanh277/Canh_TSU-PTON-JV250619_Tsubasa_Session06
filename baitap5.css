@@ -1,0 +1,47 @@
+header{
+    background-color: green;
+    color: white;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    padding: 5px 20px;
+
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+    margin-left:10px;
+}
+.container{
+    background-color: rgb(230, 225, 225);
+    text-align: center;
+    padding: 30px 30px;
+}
+.submit{
+    background-color: green;
+    color:white;
+    border-radius: 5px;
+    padding: 5px;
+}
+.library{
+    display:flex;
+    justify-content: flex-start;
+    text-align: center;
+    margin: 10px;
+    gap: 15px;
+}
+.library a{
+    text-decoration: none;
+    width:100%;
+    margin-top: 10px;
+    background-color: rgb(230, 225, 225);
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+footer{
+background-color: grey;
+color:white;
+padding: 10px;
+text-align: center;
+}
